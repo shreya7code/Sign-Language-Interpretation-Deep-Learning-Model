@@ -1,2 +1,5 @@
 # Sign-Language-Interpretation-Deep-Learning-Model
-Deep Learning Project
+
+## Title : Gesture to Text: AI-Powered Sign Language Interpretation
+### Abstract
+Sign language serves as a crucial means of communication for millions of deaf and hard-of- hearing individuals worldwide. However, despite its importance, several real-life challenges arise due to the limited availability of qualified sign language interpreters and the barriers faced by sign language users when interacting with those who do not know sign language.The significance of this project lies in its potential to bridge communication gaps that often isolate the deaf and hard-of-hearing community. By translating sign language into text, this technology enables individuals who rely on sign language to engage more effectively in various aspects of life, including education, healthcare, and everyday interactions. It offers an immediate, scalable solution that can be deployed across different platforms, providing consistent and reliable translation services where human interpreters may not always be available.
